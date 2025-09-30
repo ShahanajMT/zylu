@@ -17,10 +17,10 @@ The Employee Management System is a full-stack mobile application built with Flu
 
 🏛️ Tech Stack
 Frontend
- # Flutter
- # Provide
- # Getit
+ Flutter
+ Provide
+ Getit
 Backend
- # Node.js
- # Express
- # MongoDB
+ Node.js
+ Express
+ MongoDB
